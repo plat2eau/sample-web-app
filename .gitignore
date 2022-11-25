@@ -1,0 +1,5 @@
+/dist/8
+/node_modules
+*.scss.d.ts
+*.sass.d.ts
+*.css.d.ts
