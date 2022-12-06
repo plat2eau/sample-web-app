@@ -1,5 +1,8 @@
-/dist/8
+/dist/
 /node_modules
+/.idea/
+/types/
+.DS_store
 *.scss.d.ts
 *.sass.d.ts
 *.css.d.ts
