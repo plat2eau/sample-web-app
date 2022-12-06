@@ -1,6 +1,6 @@
-/dist/
-/node_modules
-/.idea/
+dist/
+node_modules
+.idea/
 /types/
 .DS_store
 *.scss.d.ts
